@@ -1,0 +1,5 @@
+../Src/main.c:36:5:fun_add	24	static
+../Src/main.c:43:29:change_sp_to_psp	0	static,ignoring_inline_asm
+../Src/main.c:55:6:generate_exception	4	static,ignoring_inline_asm
+../Src/main.c:61:5:main	16	static
+../Src/main.c:78:6:SVC_Handler	8	static

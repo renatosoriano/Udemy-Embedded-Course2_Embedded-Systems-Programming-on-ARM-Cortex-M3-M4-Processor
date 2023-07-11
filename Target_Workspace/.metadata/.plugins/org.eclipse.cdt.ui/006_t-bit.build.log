@@ -1,0 +1,10 @@
+00:38:52 **** Incremental Build of configuration Debug for project 006_t-bit ****
+make -j9 all 
+arm-none-eabi-size   006_t-bit.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3956	    108	   1588	   5652	   1614	006_t-bit.elf
+Finished building: default.size.stdout
+ 
+
+00:38:53 Build Finished. 0 errors, 0 warnings. (took 471ms)
+

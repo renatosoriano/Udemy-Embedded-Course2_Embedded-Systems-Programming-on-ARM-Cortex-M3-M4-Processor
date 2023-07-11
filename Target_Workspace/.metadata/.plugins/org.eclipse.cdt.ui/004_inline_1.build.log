@@ -1,0 +1,17 @@
+23:57:17 **** Incremental Build of configuration Debug for project 004_inline_1 ****
+make -j9 all 
+arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
+arm-none-eabi-gcc -o "004_inline_1.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/renatosoriano/FastBit_Embedded_Courses_Udemy/Course2/My_workspace/target/004_inline_1/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="004_inline_1.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 004_inline_1.elf
+ 
+arm-none-eabi-size   004_inline_1.elf 
+arm-none-eabi-objdump -h -S  004_inline_1.elf  > "004_inline_1.list"
+   text	   data	    bss	    dec	    hex	filename
+    732	      8	   1568	   2308	    904	004_inline_1.elf
+Finished building: default.size.stdout
+ 
+Finished building: 004_inline_1.list
+ 
+
+23:57:18 Build Finished. 0 errors, 0 warnings. (took 583ms)
+

@@ -1,0 +1,7 @@
+../Src/main-1.c:20:5:fun_divide	16	static
+../Src/main-1.c:26:5:main	16	static
+../Src/main-1.c:47:6:HardFault_Handler	8	static
+../Src/main-1.c:54:6:MemManage_Handler	8	static
+../Src/main-1.c:60:6:BusFault_Handler	8	static
+../Src/main-1.c:67:30:UsageFault_Handler	0	static,ignoring_inline_asm
+../Src/main-1.c:76:6:UsageFault_Handler_c	24	static

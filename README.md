@@ -3,11 +3,11 @@
 
 This repo contains notes and programming assignments for the Udemy's "[Embedded Systems Programming on ARM Cortex-M3/M4 Processor](https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/)" course by FastBit Embedded Brain Academy.
 
-Date: November, 2022.
+Date: July, 2023.
 
 - The course is instructed by Engineer Kiran Nayak.
 
-
+- The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course2_Embedded-Systems-Programming-on-ARM-Cortex-M3-M4-Processor/blob/main/Certificate.pdf) is available. 
 
 ## Descriptions
 

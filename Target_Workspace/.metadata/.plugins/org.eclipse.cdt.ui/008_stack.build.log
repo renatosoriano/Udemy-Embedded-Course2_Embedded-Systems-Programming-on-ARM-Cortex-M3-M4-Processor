@@ -1,0 +1,10 @@
+21:57:24 **** Incremental Build of configuration Debug for project 008_stack ****
+make -j9 all 
+arm-none-eabi-size   008_stack.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5696	    108	   1588	   7392	   1ce0	008_stack.elf
+Finished building: default.size.stdout
+ 
+
+21:57:25 Build Finished. 0 errors, 0 warnings. (took 327ms)
+
