@@ -9,6 +9,8 @@ Date: July, 2023.
 
 - The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course2_Embedded-Systems-Programming-on-ARM-Cortex-M3-M4-Processor/blob/main/Certificate.pdf) is available. 
 
+- The [**Coding Exercises**](https://github.com/renatosoriano/Udemy-Embedded-Course2_Embedded-Systems-Programming-on-ARM-Cortex-M3-M4-Processor/tree/main/Target_Workspace) are available. 
+
 ## Descriptions
 
 This course is for Embedded Engineers/Students who want to learn and Program ARM Cortex M3/M4 based controllers by digging deep into its internals and programming aspects:
